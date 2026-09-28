@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-27 18:00">
+  <shop>
+    <name>A Very Creative School</name>
+    <company>A Very Creative School</company>
+    <url>https://averycreativeschool.ru</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <offers>
+      <offer id="1" available="true">
+        <name>Midjourney: полный курс</name>
+        <url>https://averycreativeschool.ru/?utm_source=habrcareer&amp;utm_medium=feed&amp;utm_campaign=education</url>
+        <picture>https://static.tildacdn.com/tild6336-3438-4137-a361-346430366334/Frame_13_8.png</picture>
+        <price>32000</price>
+        <oldprice>32000</oldprice>
+        <currencyId>RUB</currencyId>
+        <specialization>Нейросети и AI</specialization>
+        <param name="Дата начала">В любой момент</param>
+        <duration unit="month">2</duration>
+        <skills>
+          <skill id="1">Midjourney</skill>
+          <skill id="2">Нейросети для творчества</skill>
+          <skill id="3">Генеративный ИИ</skill>
+          <skill id="4">Создание контента</skill>
+          <skill id="5">Искусственный интеллект</skill>
+        </skills>
+        <description>Авторский курс с углубленным обучением функциям и возможностям нейросети Midjourney для создания изображений, которые впечатляют.</description>
+        <param name="Оплата в рассрочку">Да</param>
+        <param name="Период рассрочки">6</param>
+        <param name="Ежемесячный платеж">5333</param>
+        <param name="Формат занятий">online</param>
+        <target>Развить навыки</target>
+        <param name="Выдаётся сертификат">Да</param>
+        <param name="Помощь с трудоустройством">Нет</param>
+        <type>Курс</type>
+        <param name="Бесплатная часть">Да</param>
+        <param name="Наличие ментора">Да</param>
+        <param name="Наличие куратора">Да</param>
+        <param name="Групповой формат обучения">Да</param>
+      </offer>
+
+      <offer id="2" available="true">
+        <name>ИИ-видео: большой курс</name>
+        <url>https://averycreativeschool.ru/aivideo?utm_source=habrcareer&amp;utm_medium=feed&amp;utm_campaign=education</url>
+        <picture>https://static.tildacdn.com/tild3539-6230-4161-a332-336164366263/Frame_14_4.png</picture>
+        <price>45000</price>
+        <oldprice>45000</oldprice>
+        <currencyId>RUB</currencyId>
+        <specialization>Нейросети и AI</specialization>
+        <param name="Дата начала">В любой момент</param>
+        <duration unit="month">2</duration>
+        <skills>
+          <skill id="1">Генеративный ИИ</skill>
+          <skill id="2">Нейросети для творчества</skill>
+          <skill id="3">Искусственный интеллект</skill>
+          <skill id="4">Видео</skill>
+          <skill id="5">Видеопродакшн</skill>
+          <skill id="6">Видеодизайн</skill>
+        </skills>
+        <description>Авторский курс по ИИ-видео, в котором ты научишься создавать не только простой видеоряд, но и полноценные многокадровые истории с логикой, ритмом и развитием сюжета.</description>
+        <param name="Оплата в рассрочку">Да</param>
+        <param name="Период рассрочки">6</param>
+        <param name="Ежемесячный платеж">7500</param>
+        <param name="Формат занятий">online</param>
+        <target>Развить навыки</target>
+        <param name="Выдаётся сертификат">Да</param>
+        <param name="Помощь с трудоустройством">Нет</param>
+        <type>Курс</type>
+        <param name="Бесплатная часть">Да</param>
+        <param name="Наличие ментора">Да</param>
+        <param name="Наличие куратора">Да</param>
+        <param name="Групповой формат обучения">Да</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
